@@ -10,7 +10,7 @@ const config = {
   tagline: 'MizoHub',
   url: 'https://docs.mizohub.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
