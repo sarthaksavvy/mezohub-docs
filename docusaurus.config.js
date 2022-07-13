@@ -9,7 +9,7 @@ const config = {
   title: 'MezoHub Docs',
   tagline: 'MizoHub',
   url: 'https://sarthaksavvy.github.io',
-  baseUrl: '/mezohub-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
