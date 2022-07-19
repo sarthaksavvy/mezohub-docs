@@ -1,7 +1,8 @@
 ---
+title: Introduction to Mezohub
 sidebar_position: 1
 ---
-# Welcome to Mezohub.
+# Welcome to Mezohub
 
 ## Mezohub is your private server manager and application deployer.
 

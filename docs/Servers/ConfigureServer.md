@@ -19,7 +19,13 @@ To modify your server's default php version, select the php option. PHP versions
 
 ![Mezohub](./img/default-php-version.png)
 
-### How to select a databse?
+### Add Remove PHP Extensions
+
+You can add or remove PHP extensions as needed for your project. To update existing php extensions, go to Installed php version and click the arrow; this will display current php extensions, which you can add or remove.
+![Mezohub](./img/php-ext.png)
+### How to select a Databse?
 To modify your server's default database, select the database option. Redis, MySql 8.0 and PostgreSQL is available to use.
 
 ![Mezohub](./img/database.png)
+
+
