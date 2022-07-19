@@ -4,4 +4,4 @@ title: Welcome to Mizohub
 
 # Welcome to Mezohub Documentation
 
- Please goto [Docs](/docs/intro) for more details
+ Please goto [Guide](/docs/index) for more details
