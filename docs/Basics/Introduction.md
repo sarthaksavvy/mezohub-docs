@@ -8,11 +8,11 @@ sidebar_position: 1
 
 Hello and welcome to Mezohub. Mizohub is a service for server management and application deployment. Mizohub was created by developers for developers.
 
-Mezohub manages all of your servers, saving you time so you can focus on coading, and making server deployment simple and quick.
+Mezohub controls all of your servers, freeing up your time to focus on more important tasks and making server deployment simple and fast.
 
 Launch any website quickly, including ones written in PHP, HTML, or Node.
 
-Automatic and easy deployment? We have them all: HTML, PHP, Node, Python, WordPress, and so on. All you have to do is integrate Github, gitlab, or Bitbucket for automatic branch deployments.
+Automatic and easy deployment? We have them all: HTML, PHP, Node, WordPress, and so on. All you have to do is integrate Github, gitlab, or Bitbucket for automatic branch deployments.
 
 We also offer one-click WordPress deployment and free WordPress migration for your website.
 
