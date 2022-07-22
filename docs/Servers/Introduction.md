@@ -3,7 +3,7 @@ sidebar_label: Introduction
 sidebar_position: 1
 ---
 
-# Servers
+# Servers Introduction
 
 #### You can build your server from the ground up in under 10 minutes. Here's how to configure your server using mizohub.
 
