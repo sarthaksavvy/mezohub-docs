@@ -1,4 +1,6 @@
 ---
+title: Introduction to Mezohub
+sidebar_label: Overview
 sidebar_position: 1
 ---
 
